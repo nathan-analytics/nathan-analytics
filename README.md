@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Nathan — Data Analyst
 
-<!--
-**nathan-analytics/nathan-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end analytics projects using SQL, Python, and Power BI to solve real-world business problems.
 
-Here are some ideas to get you started:
+Projects include:
+• Retail sales analysis (540K+ transactions)
+• Customer churn analysis (7K+ customers)
+• Sales & profitability analysis
+• Time series forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+SQL | Python (Pandas) | Power BI | PostgreSQL
+
+Currently seeking a Data Analyst role.
