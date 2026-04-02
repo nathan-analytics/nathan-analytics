@@ -2,7 +2,7 @@
 
 I build end-to-end analytics projects using SQL, Python, PostgreSQL, and Power BI to solve real-world business problems.
 
-My work focuses on turning raw data into clear insights that drive better decisions across revenue, retention, profitability, and forecasting.
+I specialize in analyzing revenue, customer behavior, and profitability to help businesses make better decisions.
 
 ---
 
@@ -12,10 +12,10 @@ My work focuses on turning raw data into clear insights that drive better decisi
 Analyzed 540K+ transactions to identify revenue drivers, top-performing products, and repeat customer behavior.
 
 **Customer Churn Analysis (SQL + Power BI)**  
-Identified key churn drivers across 7K+ customers, including high-risk segments like month-to-month contracts and early-tenure users.
+Analyzed 7K+ customers to identify key churn drivers, including high-risk segments like month-to-month contracts and early-tenure users.
 
 **Sales & Profitability Analysis (Python + SQL + Power BI)**  
-Uncovered the impact of discounting on margins and identified consistently unprofitable products.
+Analyzed sales and discount patterns to identify margin loss and uncover consistently unprofitable products.
 
 **Sales & Profitability Forecasting (Python + Power BI)**  
 Forecasted sales and profit trends to identify seasonality and support forward-looking planning and margin stability.
@@ -35,10 +35,10 @@ Dashboard Development | KPI Tracking | Time Series Forecasting
 
 ## What I Bring
 
-- Strong ability to translate data into clear, actionable insights  
+- Ability to translate data into clear, actionable insights  
 - Experience working with real-world datasets and business problems  
 - End-to-end project experience from data cleaning to visualization  
-- Focus on delivering insights that support decision-making  
+- Focus on insights that support business decision-making  
 
 ---
 
