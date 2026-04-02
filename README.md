@@ -1,15 +1,14 @@
-Hi, I'm Nathan — Data Analyst 👋
+Hi, I'm Nathan — aspiring Data Analyst
 
-I build end-to-end analytics projects using SQL, Python, and Power BI to solve real-world business problems.
+I build end-to-end analytics projects using SQL, Python, PostgreSQL, and Power BI to solve real-world business problems.
 
-Experience working with:
-• 540K+ retail transactions to uncover revenue drivers  
-• 7K+ customer dataset to identify churn patterns  
-• Sales, profitability, and forecasting analysis  
+Featured work:
+- Retail Sales Analysis — analyzed 540K+ transactions to uncover revenue drivers and repeat customer behavior
+- Customer Churn Analysis — identified key churn drivers across 7K+ telecom customers
+- Sales & Profitability Analysis — uncovered discount-driven margin loss and unprofitable products
+- Sales & Profitability Forecasting — modeled sales and profit trends to support forward-looking planning
 
-Skills:
-SQL | Python (Pandas) | Power BI | PostgreSQL  
+Core skills:
+SQL | Python (Pandas) | PostgreSQL | Power BI
 
-Focused on turning data into actionable insights that support business decisions.
-
-Currently seeking a Data Analyst role.
+Currently seeking a Junior Data Analyst / Data Analyst role.
