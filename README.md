@@ -63,5 +63,5 @@ Actively seeking a Junior Data Analyst / Data Analyst role where I can contribut
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/nathan-suverkrubbe/)
+- LinkedIn: https://www.linkedin.com/in/nathan-suverkrubbe/
 - GitHub: https://github.com/nathan-analytics
