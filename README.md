@@ -2,11 +2,14 @@
 
 I build end-to-end analytics projects using SQL, Python, PostgreSQL, and Power BI to solve real-world business problems.
 
-I specialize in analyzing revenue, customer behavior, and profitability to help businesses make better decisions.
+I focus on turning raw data into clear insights that drive decisions around revenue, customer behavior, and operational performance.
 
 ---
 
 ## Featured Projects
+
+**Chicago Bike Demand Analysis (Python + SQL + Power BI)**  
+Analyzed 1.1M+ bike trips by combining trip, weather, and event data to identify demand drivers. Found that rain reduces demand by ~32% and warm weather drives up to 4x higher usage, supporting better operational planning.
 
 **Retail Sales Analysis (SQL + Power BI)**  
 Analyzed 540K+ transactions to identify revenue drivers, top-performing products, and repeat customer behavior.
@@ -18,7 +21,7 @@ Analyzed 7K+ customers to identify key churn drivers, including high-risk segmen
 Analyzed sales and discount patterns to identify margin loss and uncover consistently unprofitable products.
 
 **Sales & Profitability Forecasting (Python + Power BI)**  
-Forecasted sales and profit trends to identify seasonality and support forward-looking planning and margin stability.
+Forecasted sales trends to identify seasonality and support forward-looking planning and decision-making.
 
 ---
 
@@ -44,7 +47,7 @@ Dashboard Development | KPI Tracking | Time Series Forecasting
 
 ## Currently
 
-Actively seeking a **Junior Data Analyst / Data Analyst role** where I can contribute to data-driven decision-making and continue to grow.
+Actively seeking a **Junior Data Analyst / Data Analyst role** where I can contribute and continue to grow.
 
 ---
 
