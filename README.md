@@ -28,30 +28,40 @@ Built a time series forecasting model to identify seasonality and support forwar
 
 ## Core Skills
 
-**Languages & Tools:**  
+**Technical Stack**  
 SQL (PostgreSQL) | Python (Pandas, NumPy) | Power BI  
 
-**Analytics Skills:**  
-Data Cleaning | Data Transformation | Exploratory Analysis  
-Dashboard Development | KPI Tracking | Time Series Forecasting  
+**Analytics Capabilities**  
+Data Cleaning & Transformation  
+Exploratory Data Analysis (EDA)  
+Feature Engineering  
+Time Series Analysis & Forecasting  
+
+**Business Focus**  
+KPI Development & Performance Tracking  
+Customer Behavior Analysis  
+Revenue & Profitability Analysis  
+Dashboard Design & Data Storytelling  
 
 ---
 
 ## What I Bring
 
-- Ability to translate data into clear, actionable insights  
-- Experience working with real-world datasets and business problems  
-- End-to-end project experience from data cleaning to visualization  
-- Strong focus on business impact, not just analysis  
+- Proven ability to analyze large, real-world datasets (7K–1M+ records) and extract meaningful insights  
+- Experience solving practical business problems across revenue, churn, profitability, and demand forecasting  
+- Strong end-to-end workflow development: data collection (including APIs), cleaning, modeling, and visualization  
+- Focus on delivering insights that support real decisions, not just technical analysis  
+- Ability to clearly communicate findings through dashboards and concise executive summaries  
 
 ---
 
 ## Currently
 
-Actively seeking a **Junior Data Analyst / Data Analyst role** where I can contribute immediately and continue to grow.
+Actively seeking a Junior Data Analyst / Data Analyst role where I can contribute immediately by delivering high-impact analysis and supporting data-driven decision-making.
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/nathan-suverkrubbe/)
+- [LinkedIn](https://www.linkedin.com/in/nathan-suverkrubbe/)
+- GitHub: https://github.com/nathan-analytics
